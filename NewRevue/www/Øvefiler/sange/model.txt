@@ -1,0 +1,126 @@
+
+
+(Den smukke datalogistuderende fra tidligere sketch kÃ¦mper videre med sin opgave i Ã¸velsestimen.)
+
+S:
+Ej, det er simpelthen for svÃ¦rt! Jeg mÃ¥ have hjÃ¦lp. Jeg bliver nÃ¸dt til at spÃ¸rge...
+
+S:
+GuldTA.
+
+(GuldTA fremkommer i en dramatisk rÃ¸gsky med bass drop og lys.)
+
+G:
+Hej smukke. Jeg er kommet for at hjÃ¦lpe.
+
+G:
+Du dufter rigtig dejligt. Er det Dior---og Chanel?
+
+G:
+Har du forresten hÃ¸rt om ham der skiftede fra Vim til Emacs?
+
+S:
+*(fniser)*
+
+G:
+Ja, jeg tÃ¦nkte nok, du ville synes, den var sjov.
+Det synes Ã¦gte dataloger.
+
+G:
+(fortsat) Hvad er problemet flotte?
+
+S:
+Det er bare opgave 24K, altsÃ¥... jeg prÃ¸ver at implementere formlen, men altsÃ¥... hvad er... Sigma? *(Publikum: Sigma balls!)*
+
+((Det er et $\Sigma$ i en rmse)
+-formel. Men den studerende har ikke lÃ¦rt at summere i $I\kern-3ptR$!)G:
+*(ryster pÃ¥ hovedet og trÃ¦der skuffet vÃ¦k, mens bandet spiller ind.)*
+
+(Vers 1)
+
+G:
+Du har mange dumme spÃ¸rgsmÃ¥l, det var et af dem
+Jeg skal gÃ¸re alt, for at svare dig alligevel
+Det' bare en sum, den er indbygget i TensorFlow
+Du' da ik' for klog *(si'r du datalog)*
+Alt for mange linjer kode, og jeg skriver dem
+Ligeglad med kodeskik, nÃ¥r datalogi bar' er peng
+Fire gyldne damer senere bliver al' papirer nem
+Skift Nu Til ML *(S N T M L)*
+
+(Bro)
+
+G:
+*Bruger du* BERT, Bayes, GPT, en uniform model
+LineÃ¦r regression, baby, en unigram model
+Fuck KNN-models, brug Hugging Face models
+
+(OmkvÃ¦d)
+
+G:
+Hva' din model? Hva' din model? Den er exceptionel
+En ValueErrorbaby, import sklearnmaybe?
+Du sagde: "Ã¥h nej, en fejl: det' mig"
+Hva' din model? Hva' din model? Har du skrevet den selv?
+Det er noget makvÃ¦rk, GPU'en gÃ¥r ber$\cdot$serk
+Hva' din model? Hva' din model?
+
+(Solo)
+
+(Vers 2)
+
+G:
+Sig mig, bruger du dine tests til at trÃ¦ne pÃ¥,
+Colab si'r du sejler, men du hÃ¥ber at det nok skal gÃ¥, du
+Tror det er en streg selvom det nu er et hyperplan, 
+Har sÃ¥ mange features baby, du ku' kalde mig polygam
+Fumler stadig rundt i 8. klasses matematik,
+Tror det lidt for svÃ¦rt for dig, tag' du bar' og lÃ¦s Fysik
+Du ku' ogsÃ¥ sagtens tag' og kryb tilbage til DMA,
+Men fÃ¸r du gÃ¸r, bli'r jeg nÃ¸dt til at spÃ¸rge
+
+(Bro)
+
+G:
+*Bruger du* BERT, Bayes, GPT, en uniform model
+LineÃ¦r regression, baby, en unigram model
+Fuck KNN-models, brug Hugging Face models
+
+\newpage
+(OmkvÃ¦d)
+
+G:
+Hva' din model? Hva' din model? Den er exceptionel
+En ValueErrorbaby, import sklearnmaybe?
+Du sagde: "Ã¥h nej, en fejl: det' mig"
+Hva' din model? Hva' din model? Har du skrevet den selv?
+Det er noget makvÃ¦rk, GPU'en gÃ¥r ber$\cdot$serk
+Hva' din model? Hva' din model?
+
+(Solo)
+
+(Kontraststykke +1 oktav)
+
+G:
+*Mod*tag min hjÃ¦lp, brug min model
+TÃ¦nk ikke selv, drik en Ã¸l
+PÃ¥ CafÃ©en?\@, uh ja, uh ja
+
+(OmkvÃ¦d +1 oktav)
+
+G:
+Hva' din model? Hva' din model? Den er exceptionel
+En ValueErrorbaby, import sklearnmaybe?
+Du sagde: "Ã¥h nej, en fejl: det' dig"
+Hva' din model? Hva' din model? Har du skrevet den selv?
+Det er noget makvÃ¦rk, GPU'en gÃ¥r ber$\cdot$serk
+Hva' din model, model, model, model, model?
+VÃ¦r min model, model, model, model, model!
+
+(Outro)
+
+G:
+Hva' din model, hva' din model?
+Tag noget ML
+Til eksamen' med Yevgen-igen, igen (og â¦)
+

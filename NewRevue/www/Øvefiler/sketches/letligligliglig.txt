@@ -1,0 +1,199 @@
+
+
+()
+PÃ¥ scenen sidder en TA og en studerende hver for sig. Den studerende sidder og koder.
+
+(AV)
+: 
+
+1 echo "SKÃL!"
+
+(R)
+Trykker pÃ¥ CompilÃ©rknappen
+
+(AV:)
+
+COMPILE ERROR
+
+R:
+(GÃ¥r frustreret hen til TA med sin computer) Hvorfor kan jeg ikke printe noget til terminalen? Jeg vil bare have den til at sige âSkÃ¥l!â
+
+T:
+NÃ¥rh! Der er ikke nogen funktion der hedder echo i F\#. Du skal bruge printfn
+
+R:
+Men jeg vil bare bruge echo!
+
+T:
+(lettere forvirret) Men der er ikke nogen funktion der hedder echo?!
+
+R:
+Hvad mener du, det er der da i php?!
+
+T:
+Men det her er ikke php, det er fsharp
+
+R:
+Kan du ikke bare skrive koden for mig?
+
+T:
+(Forvirret) Nej?
+
+R:
+Jo
+
+T:
+(bestemt) nej
+
+R:
+Hvorfor kan jeg ikke bare gÃ¸re som jeg plejer?
+
+T:
+(Frustreret) Ah. altsÃ¥
+
+T:
+(Tager dyb indÃ¥ndning)
+
+T:
+Jo. Det kan du godt, ved du hvad, giv mig lige computeren
+
+(T tager computeren, button masher of definerer echo. PÃ¥ AV stÃ¥r der)
+
+(AV:  
+
+1 let echo = printfn 
+
+2 echo âSkÃ¥l!â
+)
+
+R:
+Ah! Mange tak
+
+(Rus kÃ¸rer programmet, (vha. compilÃ©rknappen) og der stÃ¥r âSkÃ¥l!â pÃ¥ AV. Rus gÃ¥r tilbage til sin plads og koder videre)
+
+(NÃ¥r rus har kodet fÃ¦rdigt stÃ¥r der pÃ¥ AV: 
+
+1 let a = 4243
+
+2 let echo = printfn
+
+4 if a == 42 then:
+
+5    \quad true
+
+6 else 
+
+7 \quad echo âSkÃ¥l!â
+
+8 \quad false
+
+)
+
+(Rus trykker pÃ¥ compilerknappen, og fÃ¥r compilefejl. Rus gÃ¥r tilbage til TA
+)
+
+R:
+Det virker stadig ikke
+
+T:
+(stirrer pÃ¥ skÃ¦rmen med et tomt blik et Ã¸jeblik)Hvad fanden er det du laver?
+
+R:
+(Lettere irriteret som om de har haft denne snak fÃ¸r)HÃ¸r, jeg er her ikke for at diskutere med dig. Hvorfor virker mit if-statement ikke?
+
+T:
+(Forvirret, bedende)Hvorfor returnerer du ikke bare a == 42?
+
+R:
+(irriteret)Hvad snakker du om-,
+
+R:
+(Dyb, irriteret indÃ¥nding)TA, hÃ¸r, jeg vil bare vide, hvorfor virker min kode ikke?
+
+T:
+(Forvirret)Det er fsharp? Du laver ikke sammenligninger sÃ¥dan?
+
+R:
+Hvordan laver jeg sÃ¥ sammenligning?
+
+T:
+Med ligmed?
+
+R:
+(Irriteret)Jeg har brugt ligmed!
+
+T:
+(Irriteret)Nej, altsÃ¥ ikke ligmed ligmed, bare ligmed
+
+R:
+(Vred)Jeg ved godt der stÃ¥r echo, du behÃ¸ver ikke gentage dig selv!
+
+T:
+(Vred)Men du brugte ligmed ligmed!
+
+R:
+(RÃ¥ber)JA JEG HAR BRUGT LIGMED, HVORFOR GENTAGER DU DIG SELV!
+
+T:
+(RÃ¥ber)DU BRUGTE LIGMED LIGMED!
+
+R:
+(RÃ¥ber)JA JEG HAR BRUGT LIGMED!
+
+(TA Stopper med at rÃ¥ber, kigger irriteret pÃ¥ rus et Ã¸jeblik, og grounder sig selv)
+
+T:
+(sagt meget langsomt og pÃ¥ grÃ¦nsen til sammenbrud) Okay, nu tager vi den helt stille og roligt. Ligmedx2 er *ikke*en ting i fsharp. Det har aldrig vÃ¦ret en ting. Det er bare ligmed.
+
+R:
+(Epiphany)NÃ¥Ã¥Ã¥Ã¥Ã¥h, ligmedx2 er ikke ligmed ligmed
+
+T:
+(I lettelse) PrÃ¦cis! Ligmedx2 er ikke ligmed ligmed!
+
+R:
+Men hvad med ligmedx3?
+
+T:
+ligmedx3 ligner ligmedx2 ligesom ligmed ligner ligmedx2, men det er ikke ligmed ligmedx2
+
+R:
+NÃ¥Ã¥Ã¥rh! Nu jeg med!!
+
+T:
+Men hvis du vil have at ligmedx2 er ligmed ligmed, kan du bare gÃ¸re sÃ¥dan her!â
+
+(TA tager computeren og begynder at button mashe)
+
+T:
+(Sagt som (==) defineres pÃ¥ AV)Let ligmedx2 ligmed ligmed
+
+(AV: 
+
+1 let (==) = (=)
+
+2 let a = 4243
+
+3 let echo = printfn
+
+4 if a == 42 then:
+
+5    \quad true
+
+6 else 
+
+7   \quad echo âSKÃL!â
+
+8   \quad false
+
+)
+
+(Der trykkes pÃ¥ compilÃ©rknappen og der stÃ¥r nu kun SKÃL! pÃ¥ AV)
+
+R:
+(Chef's kiss) Men hvad sÃ¥ med ligmedx4?
+
+T:
+Ej, er du helt vÃ¦k, det kan man slet ikke sige
+
+

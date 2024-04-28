@@ -1,0 +1,105 @@
+
+\scene Student 1 and Student 2 are sitting at a table, discussing the current assignment, with a laptop in front of them. *Lights up*
+
+S1:
+This makes no sense to me. Explain how to use max flow to find the maximum bipartite matching in a bipartite graph, and prove its correctness using the min-cut max flow theorem?! I donât even know what bipartitis is?!
+
+S2:
+Well you knowâ¦ There is alwaysâ¦ *looks around, making sure nobody else is present* â¦ that option.
+
+S1:
+You donât meanâ¦ *looks around, making sure nobody else is present* â¦ that option?..
+
+S2:
+Yes I meanâ¦ *both looks around, making sure nobody else is present* â¦ that optionâ¦ *takes the laptop, types furiously*
+
+(OverTex:)
+*Opens ChatGPT*
+
+S2:
+You know what to doâ¦ *gives the laptop back to Student 1*
+
+S1:
+Well.. Donât mind if I do *types furiously*
+
+(OverTex:)
+*Asks ChatGPT the aforementioned question, and copies the result into a document*
+
+S1:
+And thatâs that!
+
+TA:
+WHAT IS GOING ON HERE
+
+S2:
+OH NO, THE TA!
+
+S1:
+*Smacks the laptop*
+
+(OverTex:)
+*Black Screen*
+\scene *S1 and S2 Both run off the scene WITHOUT the laptop*
+
+TA:
+Well wellâ¦ What do we have here?
+
+(OverTex:)
+*Show the assignment in the document*
+
+TA:
+Oh? An assignmentâ¦ Well it is 2 weeks after the deadline, so I should probably start grading.
+
+(OverTex:)
+*Copies the assignment text*
+
+(OverTex:)
+*Opens the browser and see ChatGPT is open*
+
+TA:
+And Chat is already open?... *looks around, making sure nobody else is present* Well.. Donât mind if I do *Copies in their assignment*
+*While typing* how many points from 0 to 10
+
+(OverTex:)
+*Show it being typed into ChatGPT and enter is pressed.*
+
+Professor:
+WHAT IS GOING ON HERE
+
+TA:
+*Smacks the laptop*
+
+(OverTex:)
+*Black Screen*
+
+TA:
+OH HEY PROFESSOR EEHHH NOTHING
+
+TA:
+*Leaves the scene*
+
+Professor:
+Well wellâ¦ What do we have here?
+
+Professor:
+*Opens the laptop, finds the grading.*
+
+(OverTex:)
+*Show grading*
+
+Professor:
+Oh how nice! The grading is here. I guess it is time for me to start coming up with the next assignment then.
+
+Professor:
+And Chat is already open?...
+
+Professor:
+*looks around, making sure nobody else is present*
+
+Professor:
+Wellâ¦ Donât mind if I.. 
+
+Professor:
+No.. you know what? Screw it. Iâll just reuse last yearâs assignment.
+
+

@@ -1,0 +1,173 @@
+
+
+\scene I en lejlighed med en dÃ¸r stÃ¥r tre flyttekasser i modsatte hjÃ¸rne.
+gÃ¥r frem og tilbage og ser nervÃ¸s ud. Nogen () banker pÃ¥ dÃ¸ren.
+stopper op, men skynder sig sÃ¥ hen til dÃ¸ren, retter pÃ¥ sit tÃ¸j, tager en
+dyb indÃ¥nding, og Ã¥bner sÃ¥ dÃ¸ren for .
+
+:
+(bedrÃ¸vet) Hej...
+
+\scene lÃ¸fter armene for at give et kram, men sÃ¦nker dem hurtigt
+igen da svarer---
+
+:
+(hurtigt, akavet) Hej!
+
+:
+Kom indenfor! Skal jeg tage din jakke?
+
+:
+Nej, det behÃ¸ver du ikke---hvor er kasserne?
+
+:
+De stÃ¥r her... (peger pÃ¥ flyttekasserne)
+
+\scene gÃ¥r forbi og samler den fÃ¸rste kasse op og begynder at gÃ¥
+tilbage mod dÃ¸ren.
+
+:
+SÃ¥... Sydkorea, Ã¸h... jeg gÃ¥r ud fra, du stadig skal afsted?
+
+\scene stiller kassen ved dÃ¸ren og svarer uden at kigge pÃ¥ .
+
+:
+Jep!
+
+\scene vender sig om og gÃ¥r hen til de to andre kasser.
+
+:
+(nedtrykt) Ãh... okay...
+
+\scene bliver lidt mere nervÃ¸s og panisk, da samler den 2. kasse
+op og bevÃ¦ger sig mod dÃ¸ren.
+
+:
+Ãhm, hvordan har din mor det? Jeg har ikke set hende siden...
+siden vi stadig...
+
+:
+(afbryder, bestemt) Hun har det fint!
+
+\scene placerer kassen og gÃ¥r hen mod den sidste kasse.
+
+:
+... og din far...?
+
+\scene er nÃ¥et hen til den sidste kasse, samler den op, og begynder
+at gÃ¥ hen mod dÃ¸ren.
+
+:
+OgsÃ¥ fint!
+
+\scene er nÃ¦sten ved dÃ¸ren.
+
+:
+(desperat) Vent! (fatter sig) Vil du ikke nok blive lidt?
+Vi kunne tage en kop kaffe of snakke lidt sammen?
+
+\scene stopper op i dÃ¸ren, sukker, stiller flyttekassen fra sig,
+og vender sig om.
+
+:
+Lad nu vÃ¦r'...
+
+:
+Lad vÃ¦r' med hvad?
+
+:
+(GÃ¥r mod )Med det her (gestikulerer til ).
+Du bliver ked af det og begynder at grÃ¦de, og sÃ¥ vil du have, at jeg skal
+trÃ¸ste dig; at jeg skal lyve og sige, at jeg bliver; at vi godt kan fortsÃ¦tte
+hvad end det her er. Det er ikke fair overfor dig, og det er heller ikke
+fair overfor mig. Du vidste fra starten af, at jeg skulle rejse. Det var
+aftalen. Og nu kÃ¸rer du det her bullshit.
+
+:
+(sÃ¥ret) Bullshit?!
+
+:
+Ja, bullshit! Hvad vil du have, jeg skal sige? At jeg dropper
+mine drÃ¸mme og bliver her, for dig? At vi bliver gift og fÃ¥r bÃ¸rn? Var det
+dÃ©t, du havde tÃ¦nkt dig?
+
+:
+(bestemt, fÃ¸lsomt hÃ¦vet stemme) Nej!
+
+:
+Hvad sÃ¥? Hvad vil du have fra mig?
+
+:
+Jeg vil have, du siger, det betÃ¸d noget! At *vi* betÃ¸d
+noget!
+
+\scene ser pÃ¥virket ud, mens fortsÃ¦tter, ogsÃ¥ oprevet.
+
+:
+(fortsat) Vi har vÃ¦ret sammen i et halvt Ã¥r, og nu kan du ikke
+engang se mig i fucking Ã¸jnene? Du har sÃ¥ travlt med at hente dit lort og
+komme ud herfra sÃ¥ du ikke behÃ¸ver at se mig igen! ForstÃ¥r du ikke hvordan
+det fÃ¸les, at blive behandlet sÃ¥dan? Jeg vil bare have at du anerkender det,
+vi var; at du anerkender, at jeg er et menneske med fÃ¸lelser, at du
+anerkender dine egne fÃ¸lelser! At det jeg fÃ¸lte var virkeligt; at du ogsÃ¥
+fÃ¸lte det! Fuck, selv hvis du ikke fÃ¸lte det, bare giv mig fucking noget
+andet end det her! Det er alt, jeg efterspÃ¸rger: at du kigger mig i fucking
+Ã¸jnene og siger, hvad du fÃ¸ler!
+
+\scene kigger ned i jorden. De har svÃ¦rt ved at fÃ¥ ordene frem.
+
+:
+Jeg... (mindre pause). Jeg...
+
+\scene gÃ¥r lidt hÃ¥befuldt tÃ¦ttere pÃ¥.
+
+:
+Ja?
+
+\scene kigger op og begynder at tale, mens de smiler ud til publikum.
+De fÃ¥r spot, og lyset dÃ¦mpes lidt bag , men sÃ¥ man stadig kan se .
+
+comment\rB:
+Jeg bruger JobIndex.
+
+Slutning A\rA:
+(forvirret) Hvad?
+
+\rB:
+JobIndexhjÃ¦lper *mig* nÃ¥r *jeg* skal lÃ¦re
+min abe at kÃ¸re bil!
+
+\scene viser video af aber, der kÃ¸rer bil, nÃ¥r aberne nÃ¦vnes.
+
+\rA:
+HVAD?!
+
+\rB:
+DIKUrevy er sponsoreret af JobIndex! Brug
+JobIndexnÃ¥r du skal lÃ¦re *dine* aber at kÃ¸re bil --- eller
+hvis dig og dine aber skal finde et job som taxachauffÃ¸r!
+
+\scene Lys ned.
+
+:
+Jeg kÃ¸rer racerbil.
+
+commentSlutning B\rA:
+(forvirret) Hvad?
+
+:
+Jeg kÃ¸rer racerbil, nÃ¥r jeg er pÃ¥ c?!
+
+\scene viser video af aber, der kÃ¸rer bil, nÃ¥r aberne nÃ¦vnes.
+
+:
+Jeg forstÃ¥r ikke!
+
+:
+Ãn straftÃ¥r for at forklare reglerne. Dette Ã¥rs DIKUrevyen er sponsoreret af c?! Tag pÃ¥ c? nÃ¥r du vil spille racerbil; eller fÃ¥ en kop kaffe. Husk, at slÃ¥r du seks, syv eller mer', sÃ¥ hviner hjulene i svingene.
+
+\scene skriger/hviner.
+
+\scene Lys ned.
+
+

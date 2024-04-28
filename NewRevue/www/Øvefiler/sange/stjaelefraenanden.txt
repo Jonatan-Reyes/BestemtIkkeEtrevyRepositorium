@@ -1,0 +1,93 @@
+
+
+S1:
+Min kode er gÃ¥ed' i stÃ¥ 
+
+S2:
+Kan ik' sid og vente pÃ¥ 
+
+S1:
+Resultatet blir' det samme som dit 
+
+S2:
+SÃ¥ jeg kigger pÃ¥ 
+
+S2:
+Stack overflow 
+
+S1:
+Bare jeg kan fÃ¥ svar 
+
+s1 og 2:
+Deadlinen den er sat 
+MÃ¥ send' i nat 
+
+S1:
+En kode fejl! 
+
+S2:
+Mit indeks er for stort derfor jeg fÃ¥r 
+
+S1:
+En kode-kode fejl 
+
+S2:
+Afleveringen er mere end hvad jeg formÃ¥Ã¥Ã¥Ã¥r 
+
+S1+2:
+Ingen hvad hvordan man gÃ¸r sÃ¥ 
+Lad os stjÃ¦le fra hinanden 
+Ctrl+C og Ctrl+V sÃ¥ 
+Vi ikke gÃ¥r fra forstand' 
+Plagiat? Det tÃ¦ller ik' for fanden 
+Lad os stjÃ¦le fra hinanden 
+
+S1:
+Din kode gir' fejl igen 
+
+S2:
+Vi klar' ik' den her min ven 
+
+S1 og 2:
+Mange andre har aflever't
+VÃ¦r ik' genert 
+
+S2:
+For en kode fejl 
+
+S1:
+Det gÃ¸r jo ikke noget nÃ¥r bar' vi tar' 
+
+S2:
+En kode-kode fejl 
+
+S1:
+Fra resultaterne som alle andre har 
+
+S1 og 2:
+Vi ved ik hvordan man gÃ¸r sÃ¥ 
+Lad os stjÃ¦le fra en anden 
+Mange andre har kopieret 
+Bare boolean blir' "sand"
+Plagiat? Det tÃ¦ller ik' for fanden 
+Lad os stjÃ¦le fra en anden
+
+S2:
+Hvad betyder det nÃ¥r bare vi fÃ¥r koden til at du?
+
+S1:
+Hvorfor skal vi selv nÃ¥r nu sÃ¥ mange andre kuâ?
+Plagiat? det tÃ¦ller ikkâ for fanden
+Lad os stjÃ¦le fra en anden
+
+S1 og 2:
+Vi gad ikâ at skrivâ revy, sÃ¥
+Lad os stjÃ¦le fra en anden
+NÃ¦ste linje er kopieret
+âdu skal brug makrotilstandâ $FysikRevy TM 2024 "Termo, Termo, Termo"$
+Plagiat? det tÃ¦ller ikkâ for fanden
+Lad os stjÃ¦le fra en anden
+
+\scene Lys ned.
+
+

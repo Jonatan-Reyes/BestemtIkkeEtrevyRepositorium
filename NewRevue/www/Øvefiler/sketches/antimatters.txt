@@ -1,0 +1,80 @@
+
+
+()
+
+(S1)
+is sitting at a table on the stage with a laptop.
+(Lights up)
+
+S0:
+(Rushing onto the stage)
+I GOT IT!! I SOLVED IT
+
+S1:
+You did?? How?!
+
+S0:
+You see the bottleneck in our code is not our $O(n^2)$ sorting algorithm, but rather the architecture of the CPU we are using! 
+
+S1:
+I donât think I am following you
+
+S0:
+Donât worry, I brought slides to explain it!
+
+(AV:)
+Show initial slide.
+
+S0:
+As you can see on this slide. A significant bottleneck of CPUs is the distance that data has to travel.
+
+S0:
+At first glance, you might think that the solution is to make the CPU smaller. But as we all know, we are slowly approaching the minimum theoretical size of silicone transistors, so this solution is not future proof at all!
+
+S1:
+So you found a new revolutionary alternative to the silicon transistor?
+
+S0:
+What? No. What I have come up with is in fact, much, much better than a new type of transistor.
+
+S0:
+You see, the rate of communication is determined by two factors: The speed and distance. As previously mentioned, we are quite limited in terms of minimising the distance, so what about maximizing the speed?
+
+S1:
+What?
+
+S0:
+Well you see, the speed is obviously upper bounded by the speed of light.
+
+S1:
+And that is already pretty fucking fast, I donât quite understand what youâre getting at.
+
+S0:
+Well, well you know how the speed of light is faster in a vacuum, than through a medium, like air or water?
+
+S1:
+Wait, are you suggesting what I think you are suggesting?
+
+S0:
+Mhm
+
+S1:
+Well we could of course vacuum seal the vacuum seal the CPUs to improve performance?
+
+S0:
+Yesâ¦ But what if we took it a step further? Essentially, light moves faster the less matter there is.
+
+S1:
+Yes?
+
+S0:
+Well, a silly rus might think a vaccum is the best we can get, in terms of minimizing the amount of matterâ¦ But what if we use ANTI MATTER!!
+
+S0:
+The more anti matter we have - the less matter we have, therefore as the amount of anti matter approaches infinity, so does the speed of our program! AND THEREFORE OUR PROGRAM WILL FINISH INSTANTLY!
+
+S1:
+Aaaaaand we got a segfault
+
+S0:
+Well, at least it doesnât matter

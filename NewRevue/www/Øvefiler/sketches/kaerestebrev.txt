@@ -1,0 +1,63 @@
+
+
+\scene Lys op
+
+k:
+Du er virkelig dejlig, atsÃ¥ du forstÃ¥r det slet ikke. NÃ¥r jeg holder om dig sÃ¥ bliver jeg helt varm indeni, fÃ¥r sommerfugle i maven og jeg har lyst til aldrig at give slip igen. 
+
+k:
+NÃ¥r vi ligger der hjemme kan vi bruge timer sammen hvor jeg bare kigger pÃ¥ dig og jeg mÃ¥ indrÃ¸mme at jeg noglegange helt glemmer at fÃ¸lge med i hvad du siger fordi jeg bare er betaget af din skÃ¸nhed. 
+
+k:
+Aldrig har jeg vÃ¦ret sammen nogen der har kunne gÃ¸re mig sÃ¥ opmÃ¦rksom pÃ¥ min manglende viden, men pÃ¥ samme tid vÃ¦ret der til hjÃ¦lpe mig med at forstÃ¥. 
+
+k:
+Mange gange har jeg haft det virkelig svÃ¦rt pÃ¥ studiet, og det eneste der har motiveret mig til faktisk at mÃ¸de op, har vÃ¦ret tanken om at se dig i kantinen.
+
+k:
+Hver ny side jeg ser af dig er bedre end den fÃ¸rste, du er svaret til alle mine spÃ¸rgsmÃ¥l.
+
+k:
+Jeg ville Ã¸nske at jeg kunne fÃ¥ dig i en stÃ¸rrelse hvor jeg lige kunne putte dig i min lomme, sÃ¥ jeg kan have dig med over alt
+
+k:
+Det er som om at stjernerne ville dÃ¸ ud og mit hjerte gÃ¥ i stÃ¥ hvis jeg ikke lÃ¦ngere kunne have dig i mine arme
+
+k:
+Men jeg har lÃ¦nge gÃ¥et og skjult mine fÃ¸lelser, i frygten om at min kÃ¦rlighed ville skrÃ¦mme dig vÃ¦k. Men jeg kan ikke vente lÃ¦ngere, jeg kan ikke leve en dag mere i uvished. SÃ¥ nu siger jeg det fandme. Jeg elkser digâ¦ CLRS
+
+\scene lys ned
+
+\newpage
+
+EVVTSk:
+Ãhh hvor jeg elsker dig, atsÃ¥ du forstÃ¥r det slet ikke. NÃ¥r bare jeg sÃ¥ meget som ser pÃ¥ dig ser pÃ¥ bliver jeg helt varm indeni og fÃ¥r sommerfugle i maven. NÃ¥r jeg holder om dig bliver jeg helt varm indeni og jeg har lyst til aldrig at give slip i frygten for at jeg aldrig fÃ¥r lov at holde om dig igen. 
+
+k:
+NÃ¥r vi ligger der hjemme kan vi bruge timer sammen hvor jeg bare kigger pÃ¥ dig og jeg mÃ¥ indrÃ¸mme at jeg noglegange helt glemmer at fÃ¸lge med i hvad du siger fordi jeg bare er betaget af din skÃ¸nhed. Aldrig har vÃ¦ret sammen nogen der har kunne gÃ¸re mig sÃ¥ opmÃ¦rksom pÃ¥ min manglende viden, men pÃ¥ samme tid vÃ¦ret der til hjÃ¦lpe mig med at forstÃ¥. 
+
+k:
+Mange gange har jeg haft det virkelig svÃ¦rt pÃ¥ studiet, og det eneste der har motiveret mig til faktisk at mÃ¸de op, har vÃ¦ret chancen for at stÃ¸de pÃ¥ dig kantinen.
+
+k:
+Men jeg har lÃ¦nge gÃ¥et og skjult mine fÃ¸lelser, i frygten om at min kÃ¦rlighed ville skrÃ¦mme dig vÃ¦k. Men jeg kan ikke vente lÃ¦ngere, jeg kan ikke leve en dag mere i uvished. SÃ¥ nu siger jeg det fandme. Jeg elkser digâ¦ CLRS
+
+\scene alternativ
+
+k:
+*Suk* Ã¥hhh hvor jeg elsker dig, det er helt utroligt hvor meget jeg elsker dig. 
+
+k:
+Du er det bedste der er sket i mit liv. FÃ¸r dig manglede jeg et formÃ¥l i mit liv, jeg havde svÃ¦rt ved at fÃ¸le mig glad og livet virkede bare meningslÃ¸st. 
+
+k:
+Ikke hÃ¥blÃ¸st og forfÃ¦rdeligt men bare fÃ¸lelseslÃ¸st, koldt og grÃ¥t. Men nÃ¥r jeg ser pÃ¥ dig sÃ¥ fÃ¥r jeg sommerfugle i maven, mine kinder fyldes med varme, og verden begynder at lyse op og fÃ¥ farve.
+
+k:
+Jeg lÃ¦nges efter at rÃ¸re dig rÃ¸re dig og nÃ¥r jeg fÃ¸rst har dig i min favn har jeg ikke lyst til at give slip, i frygten om at jeg aldrig kan holde om dig igen. 
+
+My hands are tied, jeg kan jo ikke gÃ¸re for at de studerende er blevet dummere og dummere med Ã¥rene. 
+
+\scene Lys ned.
+
+

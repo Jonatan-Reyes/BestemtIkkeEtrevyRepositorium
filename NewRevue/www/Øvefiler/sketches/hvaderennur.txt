@@ -1,0 +1,132 @@
+
+
+()
+
+(Lys op) A, B og R sidder omkring den fake computer. De sidder og arbejder pÃ¥ et gruppeprojekt i HPPS.
+
+(AV)
+Et simpelt for loop til at lÃ¸be igennem et array: \verb|for (int i = 0; i < size(arr); i++)|
+
+B:
+Er vi helt sikre pÃ¥, at vi bare kan bruge en int her?
+
+A:
+Nej du har ret, det er nok en dÃ¥rlig ide, alle bruger int, sÃ¥ bliver vi sikkert taget for plagiat.
+
+R:
+Hvad sÃ¥ med float?
+
+B:
+Neeej, Troels siger at de er alt for langsomme og det giver i Ã¸vrigt heller ikke nogen mening hvordan kan vi slÃ¥ op i et array med et float?
+
+A:
+Hvad sÃ¥ med en NUR?
+
+B:
+Jo det er nok en god ide.
+
+R:
+Vent hvad var det du sagde?
+
+A:
+At vi nok ikke skal bruge int for sÃ¥ bliver vi taget for plagiat.
+
+R:
+Nej, hvad var det vi valgte i stedet for int?
+
+A:
+Mener Du en NUR?
+
+R:
+(Kigger pÃ¥ boi og griner)
+
+B:
+(Kigger forvirret)
+Hvorfor er det sjovt? Hvad er der galt?
+
+R:
+En NUR, en NUR? Hvad fuck er Det? En NUR?
+
+A:
+Det, det bare et tal, hvad er problemet?
+
+B:
+Var du ikke med til forelÃ¦sningen?
+
+R:
+(Kigger forvirret rundt. Griner lidt men usikkert.) ??
+
+()
+
+Lys ned, lys op.
+PÃ¥ Cafeen?
+D og R sidder og snakker/drikker ved et bord.
+
+D:
+Det var godt nok hurtigt jeg fik drukket den gulddame.
+
+D:
+(Kigger tvivlsomt pÃ¥ sin Ã¸l.) Hvad sÃ¥, fik i afleveret den der HPPS opgave?
+
+R:
+Jo, det er sjovt du nÃ¦vner det. Anton, Boi og jeg sad og skulle lave et for loop der skulle lÃ¸be igennem arrayet af idâer, men kan du gÃ¦tte hvilken type de valgte til lÃ¸kke variablen???
+
+D:
+Hvilken?
+
+R:
+SÃ¥ valgte De en NUR!!!
+
+D:
+Og hvad skete der sÃ¥?
+
+R:
+(Forvirret)
+De valgte en NUR?!?!
+
+D:
+Ja, det lyder da som en god lÃ¸sning.
+
+R:
+(Kigger ud mod publikum med store Ã¸jne)???
+
+()
+
+Lys ned, lys op.
+Til eksamen.
+E sidder (eller stÃ¥r eller noget) og R stÃ¥r ved en tavle eller sÃ¥dan.
+
+E:
+SÃ¥ du skal lave for loop der skulle lÃ¸be igennem arrayet af idâer. Hvordan ville du gÃ¸re det?
+
+R:
+SÃ¥ jeg ville starte med at initialisere en int med vÃ¦rdi nul, og sÃ¥ kÃ¸re igennem arrayet med denne vÃ¦rdi og forÃ¸ge dens vÃ¦rdi med en hver gang.
+
+E:
+Jo det er sÃ¥dan set rigtigt, men findes der en mere oplagt type at bruge i sÃ¥dan en situation?
+
+R:
+ÃHHH, ALLTSÃ, ÃHHH, MÃSKE EN FL..FL.. EN NUR??????
+
+E:
+AHAHHAHAHHAHAHAHA HVAD SAGDE HVAD SAGDE DU? DNUR? Det var lige det jeg skulle sige!
+
+()
+
+Anton, boi, dildan *(Hopper op fra bag eksamenssbordet)*
+
+A, B, D, E:
+DU SAGDE NUR! DNUR!!!! $\times 5$
+
+()
+
+Hele publikum rÃ¥ber med DNUR, DNUR, DNUR!
+
+R:
+(Griner i lettelse)
+Ja det mÃ¥ jeg vist hellere!!
+
+(AV)
+Lys ned, DNUR pÃ¥ skÃ¦rmen.
+
+

@@ -1,0 +1,32 @@
+
+
+\scene Lys op.
+
+\scene To spejdere stÃ¥r pÃ¥ scenen
+
+S1\&S2:
+(synger (piano)) fire fire fire fire bÃ¥Ã¥Ã¥l fire bÃ¥Ã¥l fire bÃ¥Ã¥l
+
+\scene FS kommer ind pÃ¥ scenen i fuldt spejder-outfit.
+
+S1\&S2:
+sukker og stÃ¸nner udmattet
+\scene S1\&S2 bevÃ¦ger sig af scenen
+
+S1:
+Ugh hende her?
+
+S2:
+Jaer jeg orker hende altsÃ¥ ikke
+
+\scene FS trÃ¦kker pÃ¥ skuldrende
+
+FS:
+Hej Publikum!
+
+FS:
+Mit navn er Fornavn Spejder-Navn! Og jeg har en joke til jer! Har I hÃ¸rt den om ham, der skiftede fra rÃ¥bÃ¥ndsknob til flagknob? Hahaha.
+
+\scene Lys ned.
+
+

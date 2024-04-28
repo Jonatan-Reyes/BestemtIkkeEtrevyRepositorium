@@ -1,0 +1,96 @@
+
+
+(Lys op. O og S stÃ¥r pÃ¥ scenen ved et bord med $n$ glas vin.)
+
+O:
+Godaften... Mit navn er Otto Vin Bismag-k og dette er min kollega 
+
+S:
+Sommeli-JÃ¸rgen
+
+O:
+og velkommen til *Druer med DIKU*, det eneste vinsmagningsprogram *for* dataloger, *af* dataloger! 
+
+S:
+Ja, og i aften har vi noget *helt* sÃ¦rlig til jer, nemlig en gÃ¦tteleg! Her har vi nogle glas vin, og sÃ¥ skal Otto og jeg gÃ¦tte, hvilken det er, kun ud fra smagen. Lad os starte med den fÃ¸rste her.
+
+(O og S smager pÃ¥ den 0. vin.)
+
+O:
+Uha! Sikke et PoPaf smag! Og virkelig F\#i sin afrunding.
+
+S:
+Jaa, og kroppen er godt nok SOLID.
+
+O:
+NÃ¥... skal vi smage den nÃ¦ste?
+
+(O og S smager pÃ¥ den 1. vin.)
+
+O:
+Monadr! GPU-d med den!
+
+S:
+Ej, hvad mener du? Jeg SMLsker den her smag!
+
+O:
+Njah, jeg tror den Haskell't. Har den gardiner?
+
+S:
+Nej, jeg tror, den er \textsc{unix}-baseret... En meget Apple$\cdot$erende smag.
+
+S:
+Den er objektivt set i en klassefor sig selv. 
+
+O:
+(smasker) Hmm... eftersmagen Erlang.
+
+O:
+Man kan virkelig smage fadets barc. 
+
+S:
+Lad os gÃ¥ videre til den sidste.
+
+(O og S smager pÃ¥ den 2. vin.)
+
+S:
+Mmm ja, den RAMmer lige i smagslÃ¸gene.
+
+O:
+Ja, hva'? Scriptdet lige ned.
+
+S:
+Det er lige sÃ¥dan en, man gerne vil have til Jul$\cdot$ia.
+
+O:
+Ja, og den har en flot Rubyfarve.
+
+(O og S trÃ¦der vÃ¦k fra vinbordet.)
+
+O:
+NÃ¥, skal vi gÃ¦tte, hvad der er i glassene?
+
+S:
+Ja, det skal vi, og jeg tror, vi tÃ¦nker det samme, Otto...
+
+O:
+Det tror jeg ogsÃ¥, JÃ¸rgen...
+
+O,S:
+De har skriftet vores VIMtil pepsi eMACS. 
+
+(AV kÃ¸rer en "ding ding ding korrekt"-agtig lyd. Det bliver somehow revealed at det hele er cola, evt. et tÃ¦ppe som falder ned fra foran bordet som revealer colaspanden. Generel jubel fÃ¸lger.)
+
+O:
+Futharkfor denne gang, og fÃ¸lg med i nÃ¦ste afsnit, hvor vi lÃ¦rer at kode i Vin.
+
+O:
+Jeg er blevet trÃ¦t af alt denne vin. Jeg tror, jeg gÃ¥r op og ligger mig i kantinen. 
+
+S:
+Det forstÃ¥r man godt. Du drikker ogsÃ¥ som et hulkorti jorden.
+
+S:
+Jeg tror faktisk, jeg skal have mere. Hvem vil med pÃ¥ CafÃ©en?
+
+

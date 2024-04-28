@@ -1,0 +1,18 @@
+
+The Root object in sange/stjaelefraenanden.pdf couldn't be found, aborting
+
+The error occurred when executing:
+ at blib/lib/PDF/Reuse.pm (autosplit into blib/lib/auto/PDF/Reuse/xRefs.al) line 4333.
+	PDF::Reuse::xRefs(601, "sange/stjaelefraenanden.pdf") called at blib/lib/PDF/Reuse.pm (autosplit into blib/lib/auto/PDF/Reuse/analysera.al) line 6003
+	PDF::Reuse::analysera("sange/stjaelefraenanden.pdf", 1, 1, 1) called at blib/lib/PDF/Reuse.pm (autosplit into blib/lib/auto/PDF/Reuse/prSinglePage.al) line 3052
+	PDF::Reuse::prSinglePage("sange/stjaelefraenanden.pdf") called at /home/jonatan/Desktop/rev2024/RevyTeX/scripts/manus.pl line 211
+
+Situation when the error occurred
+
+   Bytes written to the current pdf-file,    pos    = 3860329
+   Object processed, not necessarily written objNr  = 1395
+   Current pdf-file,                         utfil  = -
+   File logging the run,                     runfil = undef
+   Local time                                       = Sat Apr 27 14:04:24 2024
+
+

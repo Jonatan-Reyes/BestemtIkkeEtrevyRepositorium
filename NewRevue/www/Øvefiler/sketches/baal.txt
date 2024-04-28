@@ -1,0 +1,33 @@
+
+
+\scene Lys op.
+
+\scene Spejderleder sidder ved et bÃ¥l.
+
+S:
+hEj, mIt nAvn eR Allan PÃ¦lestik, jeg er selvfÃ¸lgelig spEjdErlEdEr her i kommUnen, oG jEg har tre intenser paSsiOner, som jeg skAl udsÃ¦tte jer for her i nat: bÃ¥lmad, stjernebilleder og Burhan G.
+
+\scene S tager et snobrÃ¸d frem og begynder at spise det.
+
+S:
+NÃ¥men sÃ¥ den fÃ¸rste ret pÃ¥ dagens menukort er: snobrÃ¸d. Umm-tjikka-wauw for en lÃ¦kkerbiksen af en tiltalende natmadssnacks. De produceres ivrigt rundtomkring i landet, og det smager jo fremragende. Yderst delikat smagsbillede. Et must-eat for enhver spejder. 5 stjerner!
+
+\scene S lÃ¦gger resten af snobrÃ¸det og tager en skumfidus frem.
+
+S:
+Det her ikk'? Det er til gengÃ¦ld en rimelig ussel spise af guste andenrangs karakter. Skumfidusen. Hmm. Jeg kan ikke lide dem. Hverken rÃ¥ eller tilberedt hvor de ellers kan fÃ¥ sÃ¥dan en fin, fin stegeskorpe. Ja jeg er sgu ikke fan. 0 stjerner. Okay, okay - man kan jo, hvis man vil oppe den lidt, gnide den ind mellem to mariekiks, sÃ¥ man fÃ¥r sig sÃ¥dan en Smore Naturel. Det redder den lidt, og kan svinge den anmeldelse op pÃ¥ 1 stjerner.
+
+S:
+Anyway, nu skal vi kigge pÃ¥ stjerner - det er vigtigt at kunne orientere sig efter stjernerne. Ellers ved man ikke, hvad der er op og ned.
+
+S:
+Og nÃ¥r man sÃ¥ kigger lidt der oppe ad, sÃ¥ ser man sÃ¥dan nogle vanvittige ting som Orions BÃ¦lte. Og det er jo et udmÃ¦rket stjernebillede. Hm. 3 stjerner.
+
+S:
+Det var rundt regnet al for nu. Vi ses i nÃ¦ste revy!
+
+\scene Burhan G spiller i baggrunden mens lyset gÃ¥r ned.
+
+\scene Lys ned.
+
+

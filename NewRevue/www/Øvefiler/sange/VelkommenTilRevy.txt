@@ -1,0 +1,84 @@
+
+(Vers 1)
+
+S2:
+GÃ¥r backstage, og mÃ¦rker hjertet i mit bryst
+Kan se at UP1 er fyldt med publikum
+Og alle venter spÃ¦ndt pÃ¥ vores show
+Revytterne er klar til at underholdâ
+\scene TÃ¦ppe op og sangere ud
+
+S1 + S2:
+SÃ¥ vi sirâ
+
+(OmkvÃ¦d)
+
+S1 + S2:
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+
+Bandet spiller nu, vi danser natten lang,
+lang, rytmen gÃ¥r 
+\scene Fancy lys
+
+S1 + S2:
+Teknikken skinner, sÃ¥ alle lyser op,
+op
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+
+(Vers 2)
+
+S1:
+Ãllerne er kolde, publikum er klar
+Vi har Ã¸vet lÃ¦nge pÃ¥ vort repetoir (repetvar)
+Da I kom herind, blev I superstars
+SÃ¥ lad os hÃ¸râ jer synge med
+NÃ¥r vi synger ud til jer
+
+(OmkvÃ¦d)
+
+S1 + S2:
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+Bandet spiller nu, vi danser natten lang,
+lang, rytmen gÃ¥r 
+Teknikken skinner, sÃ¥ alle lyser op,
+op
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+
+(Vers 3)
+
+S1:
+Som en Dat-Ã¸kâer er du selvsikker
+
+S2:
+Som en MLâer (trÃ¦-)ner du modeller
+
+S1:
+Som en Dat-kogâer er du 01âer?
+
+S2:
+Detâ okay, hvis I forstÃ¥r
+
+S1 + S2:
+Ingenting, ingenting, ingenting
+
+(OmkvÃ¦d)
+
+S1 + S2:
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+Velkommen til revy, vi har ventet pÃ¥ jer
+Velkommen til revy, velkommen til revy
+Bandet spiller nu, vi danser natten lang
+Teknikken skinner, sÃ¥ alle lyser op
+Velkommen til revy (Unit tests), vi har ventet pÃ¥ jer
+Velkommen til revy 
+
+
